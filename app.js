@@ -1,4 +1,4 @@
-
+alert("hi")
 //detecting arrow key presses
 document.addEventListener('keydown', function(e) {
     switch (e.keyCode) {
